@@ -1,0 +1,62 @@
+Test 2017 (https://drive.google.com/drive/folders/1zmCkIqMYYK1JVbTNMjQMvJDOHtCrQmW1?fbclid=IwAR3bisdKphwKpxeyzdFjvs2pNAj1zmnaPfBlHUpXjTa54DlivC1lMogOVPc)
+
+1. b) The term software engineering was first coined in the 60's, 
+to address the growing importance of software. 
+In the 60's, software was becoming a very important tool. However, at 
+that time industry santander protocols (or "rules") had not yet been 
+developed since the industry was so young. This led to several problems
+during the life time of a software, resulting in money lost. The term Software
+Engineering was first used and defined in the infamous 1968 Nato Conference 
+in response to the problems mentioned above.
+
+2. b) Elaboration.
+RUP is heavily supported by UML. In my opinion, the elaboration phase is
+where most UML is developed. 
+In this stage the developers take a closer look at the project to 
+determine its architecture foundation and to evaluate the architecture 
+in relation to the project.
+
+The UML is the most widely used too to represent all major components, 
+users and their interaction (Model visually). The types of UML's most 
+used to model the architecture visually are: 
+    1. Use-Case Diagram, Class Diagram, State Machine Diagram, Component 
+Diagram: they show a static view of the project.
+    2. Communication Diagram, Sequence Diagram: they show the dynamic 
+behavior of the project.
+
+The system analyst is usually responsible for the development of the UML, 
+and the project manager contributes/reviews it.
+
+(https://www.webopedia.com/TERM/R/RUP.html)
+
+3. c)
+Some of the XPs practices are: pair programming, refactoring, test first.
+
+    1. Pair programming: two programmers work together at one machine.
+Driver enters code, while navigator critiques it. Periodically switch
+roles and pairs. Requires proximity in lab or work environment.
+    2. Refactoring: improving the structure of the code without changing 
+externally visible behavior. Ex: refactor out any duplicate code generated in a
+coding session.
+    3. Test first: Before adding a feature, it's important to write a test 
+for it.
+if code has no automated tests, it's assumed it doesn't work. Also, it is
+important to create tests for bugs discovered before fixing them. This 
+insures that future updates to the code tested don't create bugs.
+
+4. No scrum for us.
+
+5. c) Requirements engineering is very valued in waterfall-like process,
+being always the first phase of the development process. More recent 
+processes assume the importance of Requirements engineering along all the
+process, even at usability studies phases.
+
+Requirements are one of the most important aspects of a project as they 
+describe what the system should (or not) do. Therefore, it is important 
+they are well defined, complete and consistent, hence a discipline 
+dedicated to it. There are different kinds of requirements function and 
+non-functional (as defined on b). However, non-functional might be more 
+critical since if they fail the whole system may not work. Agile projects 
+consider the importance of requirements along all the process and in the 
+modern days, requirements are in constant change and the project and its 
+team must adapt frequently to (sometimes drastic) changes.
