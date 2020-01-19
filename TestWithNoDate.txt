@@ -1,0 +1,80 @@
+1. a)
+Software is mainly made up of abstractions,
+written in concrete languages.
+Sometimes is hard to comprehend Software 
+developed by others, because of how abstract it is.
+
+2. b)
+RUP is heavily supported by UML. In my opinion, the elaboration phase is
+where most UML is developed. 
+In this stage the developers take a closer look at the project to 
+determine its architecture foundation and to evaluate the architecture 
+in relation to the project.
+
+The UML is the most widely used too to represent all major components, 
+users and their interaction (Model visually). The types of UML's most 
+used to model the architecture visually are: 
+    1. Use-Case Diagram, Class Diagram, State Machine Diagram, Component 
+Diagram, Deployment Diagram: they show a static view of the project.
+    2. Communication Diagram, Sequence Diagram: they show the dynamic 
+behavior of the project.
+
+The system analyst is usually responsible for the development of the UML, 
+and the project manager contributes/reviews it.
+
+5. c) 
+Requirements engineering is very valued in waterfall-like processes, being
+always the first phase of the development process. More recent, processes 
+assume the importance of Requirements engineering along all the process, even
+at usability studies phases.
+
+The first two stages of a waterfall-like process are dedicated to requirements 
+engineering (system and Software requirements). In the case of more recent 
+processes like agile methods, they usually use incremental requirements engineering
+and may express requirements as user stories. 
+
+The A option is wrong. The flow of requirements engineering is:
+1. Requirements elicitation; 2. Requirements analysis and negotiation; 3.
+Requirements specification; 4. Requirements validation and 5: Requirements
+management. So the last step is management not validation.
+
+The B option is wrong because both system and user requirements are functional.
+
+The C option is wrong because engineering requirements are not ignore in agile 
+methods. Rather the system requirements are considered a waste of time since they
+change so quickly. Software requirements are considered very important and are 
+usually expressed via user stories through the development.
+
+6. d)
+It is object level because we are directly using objects from a library:
+we are using the "printf" object directly from the Std library.
+
+7. b) (entropy = chaos = change)
+
+The Software is always evolving: always changing in response to changing 
+customer needs. This stage will cause a major entropy to an evolving 
+system since requirements are in constant change and the project and its 
+team must adapt frequently to (sometimes drastic) changes.
+
+Definition of Software entropy: 
+The second law of thermodynamics, in principle, states that a closed 
+system's disorder cannot be reduced, it can only remain unchanged or 
+increase. A measure of this disorder is entropy. This law also seems 
+plausible for software systems; as a system is modified, its disorder, or 
+entropy, tends to increase. This is known as software entropy.
+
+1. A computer program that is used will be modified
+2. When a program is modified, its complexity will increase, provided that 
+one does not actively work against this.
+
+9. c) 
+It is very important that a project has team leaders. Team leaders are responsible 
+for creating a positive working environment through effective communication, team 
+building activities, and reflective listening. team leaders must be effective at 
+identifying and resolving team problems in order for the project to succeed. 
+To do this, team leaders must have an understanding of the team dynamic for 
+decision-making and must be able to manage conflict among personality 
+differences and barriers. A good team leader will make the development of 
+a project run smoothly. 
+
+10. ---

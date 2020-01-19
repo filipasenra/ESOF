@@ -20,7 +20,7 @@ The UML is the most widely used too to represent all major components,
 users and their interaction (Model visually). The types of UML's most 
 used to model the architecture visually are: 
     1. Use-Case Diagram, Class Diagram, State Machine Diagram, Component 
-Diagram: they show a static view of the project.
+Diagram, Deployment Diagram: they show a static view of the project.
     2. Communication Diagram, Sequence Diagram: they show the dynamic 
 behavior of the project.
 
